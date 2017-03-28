@@ -1,0 +1,69 @@
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.exe.config
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.exe
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.pdb
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Add_Product.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Form1.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.NewCustomer.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.NewUser.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Properties.Resources.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.csproj.GenerateResource.Cache
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.exe
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.pdb
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.csprojResolveAssemblyReference.cache
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Products.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Edit_Categories.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Edit_Category_By_ID.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Edit_Vendors.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Edit_Vendor_By_ID.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Generate_Purchase_Order.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Receive_Order.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.View_Receive_Order.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Sales_Order.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Update_Purchase_Order_Transaction_Quantity.resources
+C:\Users\Syed Uzair Mumtaz\documents\visual studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.View_Sales_Order.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.exe.config
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.exe
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.pdb
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.exe
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.pdb
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.csprojResolveAssemblyReference.cache
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Add_Product.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Edit_Categories.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Edit_Category_By_ID.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Edit_Vendors.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Edit_Vendor_By_ID.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Form1.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Generate_Purchase_Order.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.NewCustomer.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.NewUser.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Products.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Properties.Resources.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Receive_Order.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Sales_Order.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Update_Purchase_Order_Transaction_Quantity.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.View_Receive_Order.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.View_Sales_Order.resources
+E:\BACKUP-UZAIR\Documents\Visual Studio 2012\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.csproj.GenerateResource.Cache
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.exe.config
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.exe
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.pdb
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.exe
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\bin\Debug\Shopping_Cart.pdb
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.csprojResolveAssemblyReference.cache
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Add_Product.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Edit_Categories.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Edit_Category_By_ID.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Edit_Vendors.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Edit_Vendor_By_ID.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Form1.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Generate_Purchase_Order.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.NewCustomer.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.NewUser.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Products.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Properties.Resources.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Receive_Order.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Sales_Order.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.Update_Purchase_Order_Transaction_Quantity.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.View_Receive_Order.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.View_Sales_Order.resources
+C:\Users\Syed Uzair Mumtaz\Documents\Visual Studio 2013\Projects\Shopping_Cart\Shopping_Cart\obj\Debug\Shopping_Cart.csproj.GenerateResource.Cache
